@@ -1,0 +1,38 @@
+body {
+    background-color: #2F0E47;
+}
+#logo {
+    
+}
+.page.navigator {
+    display: flex;
+    justify-content: space-around;
+    color: 	#CDB45D;
+    font-size: 30px;
+    text-decoration: none;
+}
+.page.navigator a:link {
+    color: 	#CDB45D;
+    text-decoration: none;
+}
+.page.navigator a:active {
+    color: 	#CDB45D;
+    text-decoration: none;
+}
+.page.navigator a:visited {
+    color: 	#CDB45D;
+    text-decoration: none;
+}
+.page.navigator a:hover {
+    color: 	rgb( 240, 240, 240);
+    text-decoration: none;
+}
+.page.navigator {
+    scroll-behavior: smooth;
+}
+.About h1 {
+    font-size: 27px;
+}
+.About {
+    color: 	#CDB45D;
+}
